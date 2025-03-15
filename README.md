@@ -43,3 +43,7 @@ Please cite Caffe in your publications if it helps your research:
       Title = {Caffe: Convolutional Architecture for Fast Feature Embedding},
       Year = {2014}
     }
+
+## Updates from original project
+
+- Call to opencv functions in src/caffe/layers/window_data_layer.cpp and src/caffe/util/io.cpp corrected
